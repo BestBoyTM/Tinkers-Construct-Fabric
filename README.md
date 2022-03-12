@@ -1,4 +1,8 @@
-# Tinkers Construct Fabric
+# Tinkers Construct for Fabric
+
+## This mod is not designed by us
+
+All design credit goes to the creators of [Tinker's Construct](https://github.com/SlimeKnights/TinkersConstruct); this is only a port for fabric. 
 
 ## License
 
